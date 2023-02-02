@@ -1,0 +1,118 @@
+/** Add css rules here for your application. */
+/** Add css rules here for your application. */
+.icon-msword {
+	background-image: url("images/global/icon-msword.png")
+}
+
+.icon-msexcel {
+	background-image: url("images/global/icon-msexcel.png")
+}
+
+.icon-task {
+	background-image: url("images/global/icon-task.png")
+}
+
+.icon-pdf {
+	background-image: url("images/global/icon-pdf.png")
+}
+
+.icon-error {
+	background-image: url("images/global/icon-error.png")
+}
+
+.icon-search {
+	background-image: url("images/global/icon-search.png")
+}
+
+.icon-run {
+	background-image: url("images/global/icon-run.png")
+}
+
+.icon-ok {
+	background-image: url("images/global/icon-ok.png")
+}
+
+.icon-undo {
+	background-image: url("images/global/icon-undo.png")
+}
+
+.icon-print {
+	background-image: url("images/global/icon-print.png")
+}
+
+.icon-attach {
+	background-image: url("images/global/icon-attach.png")
+}
+
+.icon-config {
+	background-image: url("images/global/icon-config.png")
+}
+
+.icon-save {
+	background-image: url("images/global/icon-save.png")
+}
+
+.icon-key {
+	background-image: url("images/global/icon-key.png")
+}
+
+.icon-cancel {
+	background-image: url("images/global/icon-cancel.png")
+}
+
+.icon-refresh {
+	background-image: url("images/global/icon-refresh.png")
+}
+
+.icon-add {
+	background-image: url("images/global/icon-add.png")
+}
+
+.icon-delete {
+	background-image: url("images/global/icon-delete.png")
+}
+
+.icon-list {
+	background-image: url("images/global/icon-list.png")
+}
+
+.icon-detail {
+	background-image: url("images/global/icon-detail.png")
+}
+
+.icon-edit {
+	background-image: url("images/global/icon-edit.png")
+}
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
